@@ -1,2 +1,4 @@
-# CTI110
 CTI 110 REPOSITORY
+Created for P1LAB1
+MacDonald
+6/16/25
